@@ -1,6 +1,5 @@
 /Users/Veeral/Downloads/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Users/Veeral/Downloads/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/appsettings.json
-/Users/Veeral/Downloads/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
 /Users/Veeral/Downloads/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API.deps.json
 /Users/Veeral/Downloads/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API.runtimeconfig.json
 /Users/Veeral/Downloads/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API.runtimeconfig.dev.json
@@ -44,3 +43,4 @@
 /Users/Veeral/Downloads/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
 /Users/Veeral/Downloads/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.csproj.CopyComplete
 /Users/Veeral/Downloads/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/Veeral/Downloads/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
