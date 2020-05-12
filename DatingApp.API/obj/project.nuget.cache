@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "v5y7jWK31ednv1p9TF11MHGLPXfqhWgtiunWEyWKAGB6NEEGoDSpohhCWhTFJv/6xZy3G6r3Yh2TPZVq4JK5yg==",
+  "dgSpecHash": "cndXN73KCUJn8QbXtJJH53vm1JGG7dAiuYCW6bEcioSVbMMYCH8xB05DAMilxV/onVgSqtduNSRkw7LAERzu8w==",
   "success": true,
   "projectFilePath": "/Users/Veeral/Downloads/DatingApp/DatingApp.API/DatingApp.API.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,9 @@
     "/Users/Veeral/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.0/microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
     "/Users/Veeral/.nuget/packages/microsoft.extensions.options/3.1.0/microsoft.extensions.options.3.1.0.nupkg.sha512",
     "/Users/Veeral/.nuget/packages/microsoft.extensions.primitives/3.1.0/microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "/Users/Veeral/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.5.1/microsoft.identitymodel.jsonwebtokens.6.5.1.nupkg.sha512",
+    "/Users/Veeral/.nuget/packages/microsoft.identitymodel.logging/6.5.1/microsoft.identitymodel.logging.6.5.1.nupkg.sha512",
+    "/Users/Veeral/.nuget/packages/microsoft.identitymodel.tokens/6.5.1/microsoft.identitymodel.tokens.6.5.1.nupkg.sha512",
     "/Users/Veeral/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.2/sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
     "/Users/Veeral/.nuget/packages/sqlitepclraw.core/2.0.2/sqlitepclraw.core.2.0.2.nupkg.sha512",
     "/Users/Veeral/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.2/sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
@@ -35,7 +38,9 @@
     "/Users/Veeral/.nuget/packages/system.collections.immutable/1.7.0/system.collections.immutable.1.7.0.nupkg.sha512",
     "/Users/Veeral/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "/Users/Veeral/.nuget/packages/system.diagnostics.diagnosticsource/4.7.0/system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
+    "/Users/Veeral/.nuget/packages/system.identitymodel.tokens.jwt/6.5.1/system.identitymodel.tokens.jwt.6.5.1.nupkg.sha512",
     "/Users/Veeral/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "/Users/Veeral/.nuget/packages/system.text.json/4.7.0/system.text.json.4.7.0.nupkg.sha512"
   ],
   "logs": []
