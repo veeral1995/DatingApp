@@ -8,6 +8,8 @@ import { AuthService } from './_services/auth.service';
 import { HomeComponent } from './home/home.component';
 import { RegisterComponent } from './register/register.component';
 import { ErrorInterceptor, ErrorInterceptorProvider } from './_services/error.interceptor';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
 
 @NgModule({
    declarations: [
@@ -19,7 +21,9 @@ import { ErrorInterceptor, ErrorInterceptorProvider } from './_services/error.in
    imports: [
       BrowserModule,
       HttpClientModule,
-      FormsModule
+      FormsModule,
+      BrowserAnimationsModule,
+      BsDropdownModule.forRoot()
    ],
    providers: [
       AuthService, ErrorInterceptorProvider
